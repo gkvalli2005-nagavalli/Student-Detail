@@ -1,0 +1,4 @@
+My name is Krishna Nagavalli.
+I was currently pursuing B.SC Data science 3rd year.
+One thing I learned about GitHub: GitHub tracks every change through commits, making it easy to see history.
+With commits and version history, you can always see who made a change, when it happened, and even roll back to an earlier version if something breaks. 
